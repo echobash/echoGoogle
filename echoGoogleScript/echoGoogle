@@ -1,4 +1,13 @@
 #!/bin/bash
+
+##########################################################################
+# Title      :	echoGoogle  --A search engine from Terminal
+# Author     : Ali Anwar <anwarali37@gmail.com>
+# Date       :	2018-12-31
+# Git        :	echobash
+# Tech stack :	Bash Script
+##########################################################################
+
 #if [[ $(echo $*) ]]
 #then
 #lynx  https://www.google.com/search?q="$searchterm"
