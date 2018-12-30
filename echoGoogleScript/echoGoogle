@@ -1,0 +1,9 @@
+#!/bin/bash
+#if [[ $(echo $*) ]]
+#then
+#lynx  https://www.google.com/search?q="$searchterm"
+#else
+echo -n "enter the key to search:"
+read searchKey
+lynx   https://www.google.com/search?q="$searchKey" 
+#fi
